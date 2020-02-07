@@ -12,3 +12,6 @@ Solution :
 5. move file from server A /out to Server A /archive
 6. move file from server B /out to Server B / archive/currentday
 
+
+- Once you load the data into table then you can generate any report or you can do analysis.
+
